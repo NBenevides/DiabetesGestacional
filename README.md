@@ -1,0 +1,2 @@
+# DiabetesGestacional
+exercício DiabetesGestacional
